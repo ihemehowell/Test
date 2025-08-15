@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+body{
+  background-color: #fff;
+  color: #161723;
+  max-width: 1920px;
+  font-family: "Inter Tight", sans-serif;
+}
+
+
+
+@theme {
+  --color-button: #EE6F4B;
+
+}
